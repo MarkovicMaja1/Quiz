@@ -1,4 +1,4 @@
-Quiz App
+# Quiz App
 
 App Demo:
 https://quiz-eight-dun.vercel.app/
